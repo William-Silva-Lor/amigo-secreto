@@ -1,12 +1,5 @@
-========================================
-Amigo Secreto - Programa em JavaScript
-========================================
 
-Descrição:
-----------
-Este programa permite criar uma lista de participantes para um jogo de Amigo Secreto. 
-Você pode adicionar nomes, visualizar a lista atualizada e realizar o sorteio para 
-descobrir quem será o amigo secreto.
+Amigo Secreto 
 
 Funcionalidades:
 ----------------
